@@ -1,6 +1,6 @@
 👋 Hi, I'm Pauline
-- 🎓 I study Computer Science, Business, and Interactive Media at NYU
 - 🔭 I'm currently working on a few passion projects with Python, React, and JS
+- 🎓 I study Computer Science, Business, and Interactive Media at NYU
 - 💬 Ask me about product strategy, UX, tech for social good, and rock climbing!
 - 🪴 My corner of the internet: paulinewee.com
 
