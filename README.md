@@ -1,6 +1,6 @@
 # 🙋 `whoami`
 
-**Pauline Wee** is interested in **Strategy**, **Design**, and **AI**. She currently works with the [NYUAD Human Data Interaction Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/human-data-interaction-lab.html) on LLMs for nursing education funded by Mubadala Health. She is double majoring in Computer Science and Business, Organizations, and Society with minors in Economics and Interactive Media at New York University. 
+**Pauline Wee** is interested in **Strategy**, **Design**, and **AI**. She currently works with the [NYUAD Human Data Interaction Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/human-data-interaction-lab.html) on LLMs for nursing education. She is double majoring in Computer Science and Business, Organizations, and Society with minors in Economics and Interactive Media at New York University. 
 
 ### 💬 Contact
 
