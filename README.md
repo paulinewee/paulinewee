@@ -16,7 +16,6 @@
 - [Habi](https://www.paulinewee.com/work/habi) Pitched for NYU Designpreneurs Hackathon. Idiot-proof pair habit check-ins.
 - [Swirl](https://www.paulinewee.com/work/swirl) Won the UXUni Product Competition. All-in-one creator app.
 - [Room](https://www.figma.com/proto/yDdkaIrbXjzZprXZil3sYa/Loreal?page-id=0%3A1&type=design&node-id=223-2&viewport=222%2C217%2C0.02&t=d4JVApHlSjDhhIGt-1&scaling=scale-down&starting-point-node-id=223%3A2&show-proto-sidebar=1) Pitched for L'Oreal Brandstorm. Gamified skincare product and routine app.
-- Currently: [Guilders](https://guilders.world/) AI-powered edutech OS for domain experts to enable team projects.
 
 ## 🔧 Technology
 
